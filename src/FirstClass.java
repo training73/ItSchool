@@ -20,6 +20,9 @@ public class FirstClass {
         char litera = 'A';            // Tip char -> un singur caracter
         byte something = 0;           // Tip byte -> numere mici intre -128 si 127
 
+
+        //command update
+
         // Afisarea variabilelor
         System.out.println("Varsta mea este: " + age);
         System.out.println("Alta varsta (short): " + age2);
