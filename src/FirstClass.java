@@ -29,7 +29,7 @@ public class FirstClass {
         System.out.println("Valoare byte: " + something);
 
         // Variabila de tip String
-        String name = "Marcel";
+        String name = "Rolland";
         System.out.println("Ma numesc: " + name);
 
         // ==========================
