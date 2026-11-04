@@ -12,6 +12,7 @@ public class FirstClass {
         int age = 29;                 // Tip int -> numere intregi
         short age2 = 30;              // Tip short -> numere intregi mai mici
         int age3 = 40;
+        int age4 = 50;
         long number = 22200000000L;   // Tip long -> numere foarte mari (cu sufix L)
         double weight = 115.0d;       // Tip double -> numere zecimale (precizie mare)
         float weightFloat = 115.5f;   // Tip float -> numere zecimale (cu sufix f)
