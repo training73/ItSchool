@@ -11,6 +11,7 @@ public class FirstClass {
 
         int age = 29;                 // Tip int -> numere intregi
         short age2 = 30;              // Tip short -> numere intregi mai mici
+        int age3 = 40;
         long number = 22200000000L;   // Tip long -> numere foarte mari (cu sufix L)
         double weight = 115.0d;       // Tip double -> numere zecimale (precizie mare)
         float weightFloat = 115.5f;   // Tip float -> numere zecimale (cu sufix f)
@@ -21,6 +22,7 @@ public class FirstClass {
         // Afisarea variabilelor
         System.out.println("Varsta mea este: " + age);
         System.out.println("Alta varsta (short): " + age2);
+        System.out.println("Alta varsta: " + age3);
         System.out.println("Un numar foarte mare (long): " + number);
         System.out.println("Greutate (double): " + weight);
         System.out.println("Greutate mai exacta (float): " + weightFloat);
@@ -32,9 +34,6 @@ public class FirstClass {
         String name = "Rolland";
         System.out.println("Ma numesc: " + name);
 
-        // ==========================
-        // OPERATII ARITMETICE DE BAZA
-        // ==========================
 
         int numar1 = 10;
         int numar2 = 5;
